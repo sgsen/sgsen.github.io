@@ -1,10 +1,13 @@
-# Mother is Supreme
+---
+layout: post
+title: "Mother is Supreme"
+date: 2003-09-03
+---
 
-*An Exploration of the Ideas of Female Inequality between Achebes&#39; Umuofia and Modern America*
+####*An Exploration of the Ideas of Female Inequality between Achebes&#39; Umuofia and Modern America*
 
-Soham Sen, Charlottesville, VA 9/12/03
-
-**TCC 401-3 (Townsend)**
+*Soham Sen, Charlottesville, VA*
+*TCC 401-3 (Townsend)*
 
 Position Paper #1 based on **Things Fall Apart by Chinua Achebe**
 
