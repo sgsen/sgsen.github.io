@@ -4,7 +4,9 @@ title: Some Observations
 ---
 	<h1>{{ page.title }}</h1>
 
-	<h3><a href="{{ site.baseurl }}/blog/categories">Categories</a></h3>
+A place for my observations, refelections, reviews and stories. Mostly for me.
+
+	<h3>Categories</h3>
 
 	<div id="archives">
 	{% for category in site.categories %}
@@ -16,9 +18,7 @@ title: Some Observations
 	    <h3>{{ category_name }}</h3>
 	    <a name="{{ category_name | slugize }}"></a>
 	    {% for post in site.categories[category_name] %}
-	    <article class="posts">
-	      <h4><span>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-	    </article>
+ 				<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	    {% endfor %}
 	  </div>
 	{% endfor %}
