@@ -2,9 +2,10 @@
 layout: default
 title: Some Observations
 ---
+<div class="blurb">
 	<h1>{{ page.title }}</h1>
-
-A place for my observations, refelections, reviews and stories. Mostly for me.
+	<p> A place for my observations, refelections, reviews and stories. Mostly for me.</p>
+</div><!-- /.blurb -->
 
 	<h3>Categories</h3>
 
@@ -17,9 +18,11 @@ A place for my observations, refelections, reviews and stories. Mostly for me.
 
 	    <h3>{{ category_name }}</h3>
 	    <a name="{{ category_name | slugize }}"></a>
+			<ul class="posts">
 	    {% for post in site.categories[category_name] %}
  				<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	    {% endfor %}
+			</ul>
 	  </div>
 	{% endfor %}
 	</div>
