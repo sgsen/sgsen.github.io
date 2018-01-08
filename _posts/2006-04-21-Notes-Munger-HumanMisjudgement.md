@@ -1,6 +1,12 @@
-### Notes on The Psychology of Human Misjudgment
+---
+layout: post
+title: "Notes on Charlie Munger/Human Misjudgment"
+date: 2006-04-21
+categories: lecture_notes
+location: Pimmit
+---
 
- Speech given by Charlie Munger of Berkshire Hathaway to Harvard Law School
+*Speech given by Charlie Munger of Berkshire Hathaway to Harvard Law School*
 
  I find human psychology fascinating. Perhaps the most interesting subject of all. What does sociology, philosophy, government, economics, etc have in common if not a base in human psychology. I am amazed how often this crucial subject is ignored by the other subjects. I have written previously that the question of greatest importance to me right now is the age old question of "what constitutes the ideal life." More essentially: how should one live? I have put some significant quantity of thought into this question and I find that there are really two sets of answers. One is from the religion/moral/justice/parental angle which essentially tries to guide our behavior towards the ideal. Then there is the actual way people do things which I find is the realm of economics and germane to this essay, psychology.
 
