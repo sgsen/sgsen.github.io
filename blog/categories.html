@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Soham's Blog categories
+title: Blogs by Category
 ---
+
+<h1>{{ page.title }}</h1>
 
 <div id="archives">
 {% for category in site.categories %}
@@ -10,10 +12,10 @@ title: Soham's Blog categories
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h3 class="category-head">{{ category_name }}</h3>
+    <h3>{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
-    <article class="archive-item">
+    <article class="posts">
       <h4><span>{{ post.date | date_to_string }}</span> » <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
