@@ -4,16 +4,13 @@ title: "Notes on Lincoln in the Bardo by George Saunders"
 date: 2018-01-04
 categories: books
 ---
+![BookImage](http://bit.ly/2m5R7pE)
 
 The book is fantastic in its storytelling. I enjoyed it and I thought I'd jot a few notes before I put it back on the shelf. I won't repeat a bunch of overview pieces. I'm sure [Wikipedia](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) already has done a good job of that.
 
-![BookImage](http://bit.ly/2EaA8dn)
-
 Saunders weaves a magical world out of the historical fact that Lincoln visited his dead child in the crypts twice. That's it. A grieving father, the President, went to see the body of his dead child. A collection of quotes that describe the facts around Willie's illness amidst an extravagant party. The quotes are from real non fiction describe the illness, death, burial, impact on the family, reactions to Lincoln's management of the war.
 
-The book is written like dialogue in a play with [dramatic point of view](http://ingridsundberg.com/2011/04/05/what-is-dramatic-point-of-view/). We're a fly on the wall of a cemetery in Washington, DC. Well, that's not all is it. We're not only a fly in the wall in our dimension, the characters are in the Bardo.
-
-You are transported the Bardo. A world the Buddhists define to be between death and the next life. It seemed like it was a place a spirit persisted when it was not prepared to move forward to the next life. Basically, I thought of it as were ghosts live though the author never uses the word ghost.
+The book is written like dialogue in a play with [dramatic point of view](http://ingridsundberg.com/2011/04/05/what-is-dramatic-point-of-view/). We're a fly on the wall of a cemetery in Washington, DC. Well, that's not all is it. We're not only a fly in the wall in our dimension, the characters are in the Bardo. A world the Buddhists define to be between death and the next life. It seemed like it was a place a spirit persisted when it was not prepared to move forward to the next life. Basically, I thought of it as were ghosts live though the author never uses the word ghost.
 
 There are an array of characters that inhabit the book. The main ones are:
 1. Lincoln at the onset of the civil war.
@@ -24,10 +21,9 @@ There are an array of characters that inhabit the book. The main ones are:
 
 It's worth noting that the ghosts seem to reflect the focus of their lives when they died. Vollman has a giant penis. Bevins erupts in eyes. The Reverend full of fear.
 
-#### Insights/ Themes
-##### Death and What's a good life?
+### Death and What's a good life?
 
-Throughout the book we get to peer into so many different lives. Many of the ghosts come and tell their stories. Normal stories of normal lives. Full of suffering, loss, fleeting joys.
+Throughout the book we get to peer into many different lives. Many of the ghosts come and tell their stories. Normal stories of normal lives. Full of suffering, loss, fleeting joys.
 
 It begs the question, is Saunders saying anything about what a good life is and what it isn't. Children, including Willie, are seen to be good. Or at least innocent. This being the main reason they don't spend much time (tarry) in the Bard if at all.
 
@@ -35,10 +31,10 @@ I think Willie is there because he is so attached to his life, his father. Suffi
 
 But, it's not always so clear. That the Reverend sacrifices so much is surely good, but (spoiler here) he seems headed for the other place too. God is apparently capricious. And who is responsible? Where does the proverbial buck ultimately stop for a bad deed? The Reverend is horrified at the passive acceptance to sin. But the question of free will lingers.
 
-##### Race
+### Race
 Race seems to persist even in the Bardo. You also hear stories of suffering from the black ghosts. Stories of abuse, rape, humiliation. You start to get a sense of what the civil war is about.
 
-##### The Source of Lincoln's Resolve to Fight and Win the War
+### The Source of Lincoln's Resolve to Fight and Win the War
 Many people, even in the north, are not convinced the bloodshed is worth it. Not for the sake of the Negroes.
 
 From the death of his son, Lincoln sees the universality of death.
@@ -55,5 +51,5 @@ The thing would be won.
 
 At the end Thomas Havens a former slave ghost decides to take residence in the departing President. He sees the President taking resolve for justice for all of the suffering his people have undergone. He resolves to pass on what he knows to the President through his merged being. p311-312
 
-###### Letting Go
+### Letting Go
 Lots of the ghosts basically are not willing to move on to the next world. It seems to require them to face judgment for this one. To be either reborn, or else go to heaven or hell. They would also need to acknowledge they were dead that their previous lives were over. That they could do nothing again to regain it.
