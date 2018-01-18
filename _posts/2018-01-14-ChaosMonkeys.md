@@ -4,9 +4,8 @@ title: "Notes on Chaos Monkeys by Antonio Martinez"
 date: 2018-01-14
 categories: books
 ---
-<center>
 ![chaosmonkeys](https://images-eu.ssl-images-amazon.com/images/I/51FAKHDS4WL.jpg)
-</center>
+
 
 I was thinking: what did this book do for me. And a few things come to mind:
 
