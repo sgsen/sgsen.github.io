@@ -3,6 +3,7 @@ layout: post
 title: "Notes on Chaos Monkeys by Antonio Martinez"
 date: 2018-01-14
 categories: books
+comments: true
 ---
 ![chaosmonkeys](https://images-eu.ssl-images-amazon.com/images/I/51FAKHDS4WL.jpg)
 
