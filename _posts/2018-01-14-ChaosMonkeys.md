@@ -10,9 +10,9 @@ comments: true
 
 I was thinking: what did this book do for me. And a few things come to mind:
 
-**It entertained.** I got a relatable story of a guy moving from finance at Goldman to small tech to start up tech via the Y combinator to corporate tech at Facebook. There is much politics, drama, gossip, alcohol and even sex throughout. Aside from the plot, Martinez has a facility with the pity, catchy turn of phrase which were delightful to read -- some examples below. Our swashbuckling author might have a screenplay in his hands.
+**It entertained.** I got a relatable story of a guy moving from finance at Goldman to small tech to start up tech via the Y combinator to corporate tech at Facebook. There is much politics, drama, gossip, alcohol and even sex throughout. Aside from the plot, Martinez has a facility with the pithy turns of phrase which were delightful to read. Some examples below.
 
-**It soothed** I had just come out a tech startup feeling cynical. I needed catharsis. And this book deliverd. It confirmed the view that founders are rapacious, ego-maniacal, assholes. Words and values to them are means to an end. As are people and employees. Nothing is sacrosanct. Everybody is out for themselves.
+**It soothed** I had just come out a tech startup feeling cynical. I needed catharsis. And this book delivered. It confirmed the view that founders are rapacious, ego-maniacal, assholes. Words and values to them are means to an end. As are people and employees. Nothing is sacrosanct. Everybody is out for themselves.
 
 I remember someone in a previous job telling me about the cutlery framework for explaining relationships in the Indian civil service, the vaunted IAS. You have a spoon which you use to feed your superiors. You have a fork with which so poke your inferiors. And for your equals, the knife. I have found that to be apt, and certainly the Valley that Martinez describes. Here he is in the acknowledgement:
 
@@ -20,7 +20,7 @@ I remember someone in a previous job telling me about the cutlery framework for 
 
 Martinez reserves special vitriol for middle managers (409).
 
-> It’s because you are without a doubt the least daring and least innovative person at your organization, because in the opportunity-rich environment in which you live, the ambitious and capable have left to pursue it. There’s a negative selection in which the cream (or whatever it is that initially rises) gets constantly skimmed off, and you are what’s left after years of continual skimming. Changing from big company A to big company B is cosmetic, as it’s of course at least a lateral move if not a step up. You learn that what matters in a big company is to avoid falling victim to firing or layoffs, and to appear important and critical to the company’s mission. You have mastered the art of “managing up”: namely, controlling the feelings and perceptions of the management layer above you. You take feeodback well, and make sure to be seen speedily acting on that feedback. If you have reports, you champion their careers internally (make sure they know you’re doing that), and try to mold them into people like yourself, who are organizationally effective and recognized as such. In all but the most pathological organizations, your reports’ success will reflect well on you and create your own success. You make sure to form allegiances and friendships with your peer managers, particularly in organizations like sales or business development that you’ll need to push your business agenda forward. When there’s an ineffective and incompetent member in the organization, rather than calling them an idiot to their face and firing them if possible, you channel feedback to their manager and learn to work around their incompetence. If the incompetence does not directly affect you or your team, you look the other way and focus on the levers you do control.
+> It’s because you are without a doubt the least daring and least innovative person at your organization, because in the opportunity-rich environment in which you live, the ambitious and capable have left to pursue it. There’s a negative selection in which the cream (or whatever it is that initially rises) gets constantly skimmed off, and you are what’s left after years of continual skimming. Changing from big company A to big company B is cosmetic, as it’s of course at least a lateral move if not a step up. You learn that what matters in a big company is to avoid falling victim to firing or layoffs, and to appear important and critical to the company’s mission. You have mastered the art of “managing up”: namely, controlling the feelings and perceptions of the management layer above you. You take feedback well, and make sure to be seen speedily acting on that feedback. If you have reports, you champion their careers internally (make sure they know you’re doing that), and try to mold them into people like yourself, who are organizationally effective and recognized as such. In all but the most pathological organizations, your reports’ success will reflect well on you and create your own success. You make sure to form allegiances and friendships with your peer managers, particularly in organizations like sales or business development that you’ll need to push your business agenda forward. When there’s an ineffective and incompetent member in the organization, rather than calling them an idiot to their face and firing them if possible, you channel feedback to their manager and learn to work around their incompetence. If the incompetence does not directly affect you or your team, you look the other way and focus on the levers you do control.
 
 > You’re middle management: you’re the necessary layer between the visionaries and risk-takers who created the organization, and the new acolytes of your religion for whom this is a job, and you are their first whiff of corporate culture and authority.
 
@@ -28,7 +28,7 @@ Martinez reserves special vitriol for middle managers (409).
 
 I'll skip the more mundanely familiar pieces where a manager steals your work and puts his name on it when presenting to the big boss. Or the usual internal fight for resources.
 
-Another of my favorite sections in the book describes what happens when AGM takes two engineers from the small tech company Adchemy to his startup. The senior engineer has been there for a long time and expecting humanity in the parting. It recalled my recent departure from the tech startup.
+Another of my favorite sections in the book describes what happens when Martinez takes two engineers from the small tech company Adchemy to his startup. The senior engineer has been there for a long time and expecting humanity in the parting. It recalled my recent departure from the tech startup.
 
 > On the last hour of the last day, McEachen, saint that he was, went to Murthy’s office to say good-bye. He had invested over four years of his life in the company, watching it grow from a small shared space to the expansive floor of a high-end office tower. I waited impatiently by the emergency exit staircase, to avoid running into any other employees.
 
@@ -44,11 +44,11 @@ Another of my favorite sections in the book describes what happens when AGM take
 Especially how advertising works
 > Engineers can be so smart about code, and yet so dense about human motivations. They’d be better served by reading less Neal Stephenson and more Shakespeare and Patricia Highsmith.
 
-To no one's surprise this Adchemy CEO would later go on to sue the AGM's company. Luckily they had friends in high places. None other than Paul Graham via YC makes a cameo and gets everyone to behave.
+To no one's surprise this Adchemy CEO would later go on to sue the author's startup. Luckily they had friends in high places. None other than Paul Graham via YC makes a cameo and gets everyone to behave.
 
 **It taught** Martinez does a good job of explaining things.
 
-I'll take away this long passage on the essence of avertising:
+I'll take away this long passage on the essence of advertising:
 > Internet advertising has the same atavistic resemblance to the newspaper advertising that preceded it. The first such ads were run in La Presse, a Parisian paper, in 1836. Advertisement was originally a scheme to lower the paper’s selling price and capture market share. A successful strategy, it was soon copied by all newspapers. The ads themselves were rectangular frames of advertiser-created content, placed either below or alongside regular content, and marked as distinct by their blocky frame and large, garish lettering.
 
 >Sound like an ad you saw on nytimes.com recently?
@@ -84,3 +84,6 @@ How capitalism works?
 > The reality is, Silicon Valley capitalism is very simple:
 Investors are people with more money than time.Employees are people with more time than money.Entrepreneurs are simply the seductive go-betweens.Startups are business experiments performed with other people’s money.Marketing is like sex: only losers pay for it.Company culture is what goes without saying.There are no real rules, only laws.Success forgives all sins.People who leak to you, leak about you.Meritocracy is the propaganda we use to bless the charade.Greed and vanity are the twin engines of bourgeois society.Most managers are incompetent and maintain their jobs via inertia and politics.Lawsuits are merely expensive feints in a well-scripted conflict narrative between corporate entities.Capitalism is an amoral farce in which every player—investor, employee, entrepreneur, consumer—is complicit.
 But hey, look at these shiny iPhones. Right? (p67)
+
+In his memoir, Antonio Garcia Martinez comes across as a swashbuckling, bridge-burning hero. That our hero would want also want sympathy is perhaps not surprising. Redemption is, after all, on offer to all. 
+> Don’t be deceived by my withering treatment of Facebook in this book; inside every cynic lives a heartbroken idealist. If I’m now a mordant critic, it’s because at one point, like Lucifer once being the proudest angel before the fall, I too lived and breathed for Facebook, perhaps even more than most.
