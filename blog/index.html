@@ -7,6 +7,15 @@ title: Notes
 	<p> A place where I am slowly collecting observations, reflections, reviews and stories from over the years. Mostly for me. Possibly amusing for you. </p>
 </div><!-- /.blurb -->
 
+<h2>Chronological</a></h2>
+
+<ul class="posts">
+
+	{% for post in site.posts %}
+		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	{% endfor %}
+</ul>
+
 	<h2>Categories</h2>
 
 	<div id="archives">
@@ -26,13 +35,3 @@ title: Notes
 	  </div>
 	{% endfor %}
 	</div>
-
-
-	<h2>Chronological</a></h2>
-
-	<ul class="posts">
-
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
