@@ -2,7 +2,7 @@
 layout: post
 title: "Mother is Supreme"
 date: 2003-09-03
-categories: [college, test]
+categories: [college]
 ---
 
 #### *An Exploration of the Ideas of Female Inequality between Achebes&#39; Umuofia and Modern America*

@@ -2,11 +2,11 @@
 layout: post
 title: "Letterman Interviews Obama on Netflix"
 date: 2018-01-14
-categories: [Obama, nostalgia]
+categories: [Obama, nostalgia, film]
 ---
 ![ObamaLettermanImage](https://media.newyorker.com/photos/5a57eb9fbddaac53218663da/master/w_727,c_limit/Crouch-David-Letterman-Netflix.jpg)
 
-I watched this [interview of President Obama][1] by David Letterman this morning, and it was pretty inspirational. Not because there was any news there. The Pres seems like he's been chilling post retirement, working on a book, sending his daughter off to college, and working on his foundation. Nothing unexpected. 
+I watched this [interview of President Obama][1] by David Letterman this morning, and it was pretty inspirational. Not because there was any news there. The Pres seems like he's been chilling post retirement, working on a book, sending his daughter off to college, and working on his foundation. Nothing unexpected.
 
 It was more the contrast between the man sitting on stage with the  horror of today. It felt like a tonic. To remember that such competence. Such inspiration was possible from the President.
 
