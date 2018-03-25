@@ -4,10 +4,9 @@ title: "Nasi"
 date: 2016-10-03
 categories: [fiction]
 comments: true
+image: "https://c5.staticflickr.com/6/5562/14417763332_55b76c14a1_n.jpg"
+excerpt: "It was dawning on him that he lacked much besides just cash. A basic understanding of how his night was going for one thing."
 ---
-
-![Laura Faraci -- African](https://c5.staticflickr.com/6/5562/14417763332_55b76c14a1_n.jpg)
-
 
 Derek practically leaped out of the car. He felt electric. The night air was cool, and he was looking forward to dancing with his new colleagues. As they filed out of the car, he reached back into the car through the driver’s side window to shake the driver’s hand. Like all recent arrivals from the West, he had a nearly imperceptible feeling that he and Razak were not on equal footing, but he wouldn’t acknowledge it. For now, they were new colleagues too, and would soon become friends.
 
@@ -166,3 +165,6 @@ He sullenly looked at the ground. How could he have missed the signs? Goddam Mat
 “Really? After all we’ve been through?” He feigned injury. She paused.
 
 “Nasi.”
+
+
+*Image Credit: Laura Faraci -- African from Flickr*

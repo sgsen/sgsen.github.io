@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Notes on Lincoln in the Bardo by George Saunders"
+title: "Notes on Lincoln in the Bardo"
 date: 2018-01-04
 categories: books
+excerpt: "George Saunders weaves a magical world out of a historical fact..."
+image: "https://dl.dropboxusercontent.com/s/wfxgphse3haronm/linconbardo_houstonchronicle.jpg?dl=0"
 ---
-![BookImage](http://bit.ly/2m5R7pE)
-
 The book is fantastic in its storytelling. I enjoyed it and I thought I'd jot a few notes before I put it back on the shelf. I won't repeat a bunch of overview pieces. I'm sure [Wikipedia](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo) already has done a good job of that.
 
 Saunders weaves a magical world out of the historical fact that Lincoln visited his dead child in the crypts twice. That's it. A grieving father, the President, went to see the body of his dead child. A collection of quotes that describe the facts around Willie's illness amidst an extravagant party. The quotes are from real non fiction describe the illness, death, burial, impact on the family, reactions to Lincoln's management of the war.

@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Life in Delhi Lessons: Aggression"
+date: 2007-04-22
+categories: [delhiblog2007]
+image: "https://dl.dropboxusercontent.com/s/5mbequgo0ip9g08/Autorikshaw5-1.png?dl=0"
+excerpt: 'In response to criticism of America I wanted to tell people that India too was a difficult, aggressive place to live.'
+
+---
+110 degrees on a lazy Sunday, and only the whir of the A/C is keeping me from enervating heat and the irritability that remains when your energy and ability to think have evaporated. Oddly though I have started to get used to that feeling of walking into a furnace facing dusty winds. It could be worse I tell myself and for a lot of people it has been. I recall of how bizarre the scenes of the familiar Virginia Tech campus looked behind a BBC logo or in international newspapers. My condolences to all those affected by the tragedy.
+
+![](http://lh5.google.com/image/soham.g.sen/RiuKNLxF5QI/AAAAAAAAAnk/UCW0kMd52OQ/s400/s1563570020_2416.jpg){: .image.left }  
+
+How odd it was to have random Indians ask me if thats where I had gone to school confusing the University of Virginia -- where I went -- with Virginia Tech. Invariably, the next question was about America's gun culture: did I have guns in America? I would be at a loss, but for the sake of defending the indefensible I would try to explain about the NRA and our second amendment, but right about then, the person would lose interest and walk off mumbling something about crazy gun toting Americans or George Bush.
+
+I would get defensive about America. It's hard to not be while abroad these days. What was probably latent hostility before has now, for various reasons I'll leave you to guess, become blatant. I wanted to tell them that India too was a difficult, aggressive place to live.
+
+Which brings me to the third installment of Life in Delhi: Thou Must Be Aggressive To Survive. [In case you're interested, the [first part ](http://senuniversitas.org/publicblog/?p=16)on haggling is here. The [second on personal space](http://senuniversitas.org/publicblog/?p=18) is here.]
+
+I found early on during my visit to Delhi that India cares not a whit about the individual. There are so many people that it almost feels like the average Joe is expendable. Perhaps this is true to varying degrees for many places, but usually its the case of some large organization be it the government or a corporation that is accused of ignoring somebody. But here you feel it at a very personal level.
+
+Take for example my attempt to buy a cell (ahem.. mobile) phone during my first week here. I would go into the store, and the guy behind the counter would just be chilling, talking on the phone or with the guy next to him, watching TV, whatever. Basically, he was doing everything besides talking to me, what every business I would expect to pounce on, an interested customer. Yes, the chap would ignore me completely. Then, only after I would directly address him, would he acknowledge my presence. Even then, the guy wouldn't make eye contact and I needed to goad him for information. It was like he was doing me the biggest favor by talking to me by allowing *me* to pay *him* for *his* merchandise! I was too new to India then, and I was infuriated! I would storm out of the store swearing to vote with my money and buy a phone someplace where they cared to actually try and sell it to me. Then, I repeated this experience another five times at five other places.
+
+I found the case to be similar at the bank but instead of the "I can't be bothered" tactic, you experience something akin to the DMV experience. You get a ticket and wait your turn for a really really long time. Then you encountered the procrastinator extraordinaire. He is the guy across the counter who assures you that your account will be open and active within say five days. In my case, (because apparently my signature didn't match another one of my signatures and they couldn't be bothered to handle getting another signature from me) opening the account took a full month!
+
+In other words, in one of the world's largest economies, customer service has not yet become a value. It's as if the notoriously bureaucratic government culture has seeped into the collective psyches of everyone. In American malls I would sometimes avoid going into a Foot Locker because I hated to have the sales guy hovering around asking if I needed help. Next time I'm home, I might give that guy a hug. I almost cried when after having my wallet stolen, Citibank mailed me a card from the US in 48 hours. What efficiency!
+
+Then there are the people themselves. If there is a situation where someone can push and shove their way up front, you can pretty much expect them to try. Standing in line for a snack on the street, unless you push and shove to keep your spot on the line, somebody will step ahead and order before you. Think the guy is going to acknowledge you when you get to the front? No, you have to shout to him while holding the others back. There is not the common courtesy of holding the door for somebody here, either. No sir. Its mano a mano here, everybody for themselves. In walking along the narrow streets, I would wait and let a few people pass through expecting that then somebody else would wait and let me through. Forget about it. You will wait for ever!
+
+What to do? I'm not sure yet. Chaucer wrote that "patience is a virtue," and this seems to have caught on (I hear people quoting it all the time) but, had Chaucer come to India, I think he might have himself added, "but virtue might kill you." (Typically Thomas Chalkley is given credit for the second portion.)
+
+![Everybody Could Use Something From This Menu (Falcha Restaurant, Kathmandu, Nepal)](http://lh6.google.com/image/soham.g.sen/RiuFkbxF5OI/AAAAAAAAAnQ/JqtR2L3lae8/s400/IMG_2707.jpg){: .image.right }
+
+
+Instinctively, I notice that I've learned to become aggressive too despite my efforts to remain patient. And I guess this is how it spreads; it perpetuates by forcing everybody to conform to this standard. Though I have yet to master the art of acting angry on command. This seems to be the only way to get anything done here. You get upset and begin to yell, then people start moving a little bit. Until then they just can't be bothered. After all, there are so many people here that its almost like there is just enough to go around. If you don't come back to this store or this bank, well there are hundreds who will; you don't matter, you're expendable. How awful you say. Is it this way everywhere? I've noticed that mercifully its not and amongst two different groups of people. First amongst people in the villages that I've met and second, to a lesser degree, among high society (expensive restaurants etc). And Since about 70% of India is rural I can safely say that I wouldn't expect "most Indians" to be this way. I also have not encountered this in other cities that I've visited. So there is hope indeed, but if you're coming to Delhi, work on that feigned angry face, you'll need it.  

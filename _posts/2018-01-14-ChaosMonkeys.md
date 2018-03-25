@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Notes on Chaos Monkeys by Antonio Martinez"
+title: "Chaos Monkeys"
 date: 2018-01-14
 categories: books
-comments: true
+image: 'https://dl.dropboxusercontent.com/s/mzd204bgp00jtft/chaos-1000x667_wbur.jpg?dl=0'
+excerpt: 'Antonio Martinez entertains, soothes and teaches'
 ---
-![chaosmonkeys](https://images-eu.ssl-images-amazon.com/images/I/51FAKHDS4WL.jpg)
-
-
 I was thinking: what did this book do for me. And a few things come to mind:
 
 **It entertained.** I got a relatable story of a guy moving from finance at Goldman to small tech to start up tech via the Y combinator to corporate tech at Facebook. There is much politics, drama, gossip, alcohol and even sex throughout. Aside from the plot, Martinez has a facility with the pithy turns of phrase which were delightful to read. Some examples below.
@@ -85,5 +83,5 @@ How capitalism works?
 Investors are people with more money than time.Employees are people with more time than money.Entrepreneurs are simply the seductive go-betweens.Startups are business experiments performed with other people’s money.Marketing is like sex: only losers pay for it.Company culture is what goes without saying.There are no real rules, only laws.Success forgives all sins.People who leak to you, leak about you.Meritocracy is the propaganda we use to bless the charade.Greed and vanity are the twin engines of bourgeois society.Most managers are incompetent and maintain their jobs via inertia and politics.Lawsuits are merely expensive feints in a well-scripted conflict narrative between corporate entities.Capitalism is an amoral farce in which every player—investor, employee, entrepreneur, consumer—is complicit.
 But hey, look at these shiny iPhones. Right? (p67)
 
-In his memoir, Antonio Garcia Martinez comes across as a swashbuckling, bridge-burning hero. That our hero would also want sympathy is perhaps not surprising. Redemption is, after all, on offer to all. 
+In his memoir, Antonio Garcia Martinez comes across as a swashbuckling, bridge-burning hero. That our hero would also want sympathy is perhaps not surprising. Redemption is, after all, on offer to all.
 > Don’t be deceived by my withering treatment of Facebook in this book; inside every cynic lives a heartbroken idealist. If I’m now a mordant critic, it’s because at one point, like Lucifer once being the proudest angel before the fall, I too lived and breathed for Facebook, perhaps even more than most.

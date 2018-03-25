@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Columbus"
+title: "Film Notes: Columbus"
 date: 2018-01-21
 categories: [film]
 comments: true
+image: 'http://insessionfilm.com/wp-content/uploads/2017/11/Columbus389-585x329.jpg'
+excerpt: "The film gets its power, it's meditative presence and emotional resonance from a deeply authentic exploration of relationships."
 ---
-
-![columbusImage](https://prod1.agileticketing.net/images/user/hff_11224/2017-columbus-1.jpg)
 
 If you watch this movie, the chances are that you'll end up wanting to go to Columbus, Indiana. Surely I mean Ohio? No, I mean the one in Indiana. The one architects call the ["Athens of the Prairie"][1]. A large company you've never heard of based there that manufactures diesel engines started paying architecture fees for buildings in the town back in the 1940s, 50s and 60s.
 
@@ -26,4 +26,4 @@ The daughter and the son strike up an unexpected friendship, complicated by the 
 
 The acting is superb. Haley Lu Richardson is able to pull off the vulnerability of an idealistic, artistic young girl who has grown up too fast. John Cho (of recent fame in Master of None and for being Harold in Harold and Kumar go to White Castle) is calm and measured. His character's relationship with another woman - his father's student played a surprisingly good Parker Posey - is complicated. There is a past, love unrequited. The three come together like siblings helping each other navigate the burdens and hopes of their parents. An impressive debut from South Korean director Kogonada worth watching.
 
-And, in case you were wondering at this point. Columbus, Indiana is less than a hours drive south from Indianapolis. Or, in case you end up in the one in Ohio, you just need to go 3 hours west. 
+And, in case you were wondering at this point. Columbus, Indiana is less than a hours drive south from Indianapolis. Or, in case you end up in the one in Ohio, you just need to go 3 hours west.

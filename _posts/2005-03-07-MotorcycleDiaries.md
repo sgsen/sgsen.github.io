@@ -3,9 +3,10 @@ layout: post
 title: "The Motorcycle Diaries and a thought experiment..."
 date: 2005-03-07
 categories: [film, blogspot]
+image: 'http://photos1.blogger.com/img/14/3893/320/01.jpg'
+excerpt: "Most people don't end up following through on their ambitious plans and dreams. Why not?"
 ---
 
-![Maybe take this boat and head to Thailand?](http://photos1.blogger.com/img/14/3893/320/01.jpg)
 
 I just watched the movie Motorcycle Diaries the other day, and it really made me think about a lot of things about life in general. So this movie is generally about two guys that travel across South America for no real reason other than to see it. If you want a more legit plot summary click here.
 

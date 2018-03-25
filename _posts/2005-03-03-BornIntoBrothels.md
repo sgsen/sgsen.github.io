@@ -3,8 +3,9 @@ layout: post
 title: "Notes on Born Into Brothels"
 date: 2005-03-03
 categories: [films, blogspot]
+image: "https://dl.dropboxusercontent.com/s/4xkiwsuhrwo519w/born-into-brothels.jpg?dl=0"
+excerpt: "Like anybody with a half a heart, you had to feel for these kids and their parents while you watched this movie. But then what?"
 ---
-![image](https://www.calcuttaweb.com/store/image/cache/data/usa/dvd/born-into-brothels-dvd-504-800x800.jpg)
 
 I went and saw this documentary that won the Oscar for best documentary last night with a couple of friends. It was called Born into Brothels. By now, I'm sure many of you heard about it, but basically it was about the children of sex workers in the red light district of Calcutta (a city of some 14 or 15 million on the India Bangladesh border.) A white lady from UK who is a photographer goes to India and to this red light district to take pictures of the prostitutes. How she got this idea I don't know. Its pretty random if you think about it, but she studied theology and religion at Cambridge, so that might explain it. (I'll leave it purposefully ambiguous) Anyway, she goes down there, and its of course as horrendous as you might imagine a red light district in a third world country to be. Or more likely you can't imagine it. She gets attached to the kids, they are in turn duly fascinated with her and her camera, and then she gets the idea to teach them how to take pictures. I don't want to rehash it anymore than that, so if you want to find out more go to the website called [Kids with Cameras](http://www.kids-with-cameras.org/).
 
@@ -16,7 +17,7 @@ Like anybody with a half a heart, you had to feel for these kids and their paren
 
 Maybe I can appease my conscience by donating some money to the fund, and then? Hey, I figure I've done my part, haven't I? Maybe I can tell a bunch of my friends about it, and maybe they'll donate some money too... and then? What difference will it make? What about all the kids in all the other red light districts in India or Africa. Why stop there? What about those in America and the rest of the world? I guess this is how people go crazy. There is no end to it I guess.
 
-I head that a third of the world lives on less than $1 a day, and half live on less than $2. Is this my problem? Whose problem is this? What can I do? What should I do? It gets pretty philosophical from here, but its interesting, so I think I'll pick it up from here again next time.
+I head that a third of the world lives on less than a dollar a day, and half live on less than $2. Is this my problem? Whose problem is this? What can I do? What should I do? It gets pretty philosophical from here, but its interesting, so I think I'll pick it up from here again next time.
 
 In the mean time, I can't help but think of the story of the star fish. You know that one where a little kid goes to the beach with his mom. Its low tide, so there are like hundreds of star fish that got left on the shore. I guess starfish die when they aren't in water, so unless the tide comes back soon, they are going to die. I don't know how, but the kid knows this, and starts picking up starfish and throwing them into the ocean. He keeps this up for a while, and his mom (who's probably sitting underneath a beach umbrella reading some sappy romance novel cause she's a sentimentalist) asks him what the hell he is doing. He tells her. Mom then says, "well honey, there are hundreds of them all along the beach, you aren't gonna make a difference, so why don't you give it a rest, and go play in the water." The kid says, "maybe I can't make a difference to them all, but I bet I made a difference to this one," and throws another one back in. Ok, so I suck at telling stories, but if you wanna read the actual Starfish Story [click here](https://eventsforchange.wordpress.com/2011/06/05/the-starfish-story-one-step-towards-changing-the-world/).
 

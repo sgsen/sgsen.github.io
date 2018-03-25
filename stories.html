@@ -1,0 +1,85 @@
+---
+layout: null
+title: Musing Ar Lekha | Stories
+description: Soham Sen | Notes, Projects and Stories
+sitemap:
+    priority: .9
+    lastmod: 2017-03-01
+    changefreq: yearly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+            <!-- Featured Post -->
+              <article class="post featured">
+                <header class="major">
+                  <h2><a href="#">Stories</a></h2>
+              </header>
+              <p>
+                I enjoy writing when I get the chance. I'll collect the product of those efforts below.
+              <p>
+              </article>
+
+            <!-- Posts -->
+  							<section class="posts">
+                  {% for story in site.stories %}
+    								<article>
+    									<header>
+    										<span class="date">{{ story.date | date_to_string }}</span>
+    										<h2><a href="{{ story.url | absolute_url }}">{{ story.title }}</h2>
+    									</header>
+    									<a href="{{ story.url | absolute_url }}" class="image fit"><img src="{{ story.image | absolute_url }}" alt="" /></a>
+    									<p>{{ story.excerpt }}</p>
+    									<ul class="actions">
+    										<li><a href="{{ story.url | absolute_url }}" class="button">Read</a></li>
+    									</ul>
+    								</article>
+                  {% endfor %}
+
+  							</section>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>

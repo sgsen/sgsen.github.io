@@ -3,10 +3,10 @@ layout: post
 title: "The Lobster War"
 date: 2016-09-01
 categories: [fiction]
+image: "https://c5.staticflickr.com/8/7324/13912329780_786dfcf084_n.jpg"
+excerpt: "My father paused his study and looked up at me. My mother stopped trying to stupefy the lobster owner and gave me a stern look. As if I was the crazy person. My sister, to her credit, carried on her gymnastics training on the parking bumps. But the spell had broken. The lobster owner, used the moment to gather himself."
+
 ---
-
-![Rogerio Granato - Lobsters from Flikr](https://c5.staticflickr.com/8/7324/13912329780_786dfcf084_n.jpg)
-
 “What is that?” my sister said pointing toward the car. She was 8 then: thin, awkward, and quiet. If it were possible to be a credible Indian goth in middle school, she might audition for the part. We were all walking back toward the car parked amidst a row of others in front of a small convenience store. My sister and I, walking ten yards ahead of our mother and father, had gotten to the car first.
 
 “What’s there?” My father’s eyebrows lifted and scrunched; his eyes narrowed in mid-amble. He’s short, already balding at 37, but still skinny with a rapid gait and intensity that felt out of place in the American midwest.<!--more-->
@@ -130,3 +130,5 @@ My father slowly moved toward the store, a hand reaching back to pant pocket. My
 The drive to the airport took forty minutes. We rode in silence apparently taken by the gripping scenes of Interstate 90 outside our respective car windows. Humbled by the encounter with the lobster, a temporary ceasefire was in effect.
 
 At the airport, my father said, “I’ll drop you guys off at the departure terminal and head off straight away.” I nodded. We all did. My father had proven himself to be vulnerable to lobsters. And maybe other things too. He pulled the car over to the curb of the busy drop off area, and put the flashers on. My sister and I looked at each other, then our parents, and stepped out of the car and into the world outside cautiously, together.
+
+*Image Credit: Rogerio Granato - Lobsters from Flikr*

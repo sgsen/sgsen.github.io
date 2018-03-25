@@ -3,8 +3,9 @@ layout: post
 title: "Moving Apart"
 date: 2016-09-06
 categories: [fiction]
+image: https://c1.staticflickr.com/1/123/396328552_7d8d649747.jpg
+excerpt: "She woke up early. Her son was coming this evening. She allowed herself to soak in the eager anticipation, but ignored the tightness that was also there. A feeling akin to dread that she wouldn’t acknowledge much less allow herself to label."
 ---
-![Omm u Tifel - Mother and Son](https://c1.staticflickr.com/1/123/396328552_7d8d649747.jpg)
 
 She woke up early. Her son was coming this evening. She allowed herself to soak in the eager anticipation, but ignored the tightness that was also there. A feeling akin to dread that she wouldn’t acknowledge much less allow herself to label.
 
@@ -14,9 +15,9 @@ But children grow up and become their own people. They don’t need to hold your
 
 Even when they do the things you expect, it doesn’t quite turn out the way you had imagined. In college, she had admired the rich girls, the ones that spoke fast, comfortable English. The ones that had ideas of what the world was like, and their place in it. They moved with such confidence; something entirely foreign to her in the alien world she found herself in.
 
-Her son, raised in a different country, certainly spoke fast english. He also had ideas about the world and his place in it. But, none of it made any sense to her. Take how he felt about his job. This was his first after college. He’d only had it for a couple of year, but already he was so unhappy with He talked of quitting all the time. She couldn’t understand why. She’d gone to the visit last fall for family day, and the company was full of bright young people who seemed to be doing so well. The job was stable and already paid more than her high school teaching job. She just hoped he’d settle down a bit; not do anything too hasty.
+Her son, raised in a different country, certainly spoke fast English. He also had ideas about the world and his place in it. But, none of it made any sense to her. Take how he felt about his job. This was his first after college. He’d only had it for a couple of years, but already he was so unhappy with it. He talked of quitting all the time. She couldn't understand why. She’d gone to the visit last fall for family day, and the company was full of bright young people who seemed to be doing so well. The job was stable and already paid more than her high school teaching job. She just hoped he’d settle down a bit; not do anything too hasty.
 
-Her thoughts returned to the present. She checked the time, and hurried out of bed. She needed to tidy the place, and she wanted to make that curry that he likes so much. And really should just make posto -- a sesame potato mix -- too. And maybe that pineapple raisin dessert too she thought. She remembered he was coming to help her move from the small one bedroom apartment to another, similar place a couple of hours away. But she didn’t have time to think of that now. It would get done. Her mind turned to the recipes for each of those dishes.
+Her thoughts returned to the present. She checked the time, and hurried out of bed. She needed to tidy the place, and she wanted to make that curry that he likes so much. And really should just make *posto* -- a sesame potato mix -- too. And maybe that pineapple raisin dessert too she thought. She remembered he was coming to help her move from the small one bedroom apartment to another, similar place a couple of hours away. But she didn’t have time to think of that now. It would get done. Her mind turned to the recipes for each of those dishes.
 
 She heard the car pull up just as the rice was finishing up her cooking and cleaning. She felt proud of what she’d gotten done that day. She ran to open the door for him in welcome.
 
