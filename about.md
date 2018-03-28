@@ -9,7 +9,7 @@ sitemap:
 ---
 <center>
 <h1>About Soham</h1>
-<img src="{{ "/images/soham.jpg" | absolute_url }}" alt="" />
+<img src="{{ "/images/soham.jpg" | site.url }}" alt="" />
 </center>
 
 These days I'm trying to find ways to improve access to finance for small businesses in India.

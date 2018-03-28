@@ -37,7 +37,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+						<a href="{{ "/" | site.url }}" class="logo">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -54,7 +54,7 @@ sitemap:
 								<header class="major">
 									<h2>Soham's Space</h2>
 								</header>
-								<a href="#" class="image main"><img src="{{ "/images/pic07.jpg" | absolute_url }}" alt="" /></a>
+								<a href="#" class="image main"><img src="{{ "/images/pic07.jpg" | site.url }}" alt="" /></a>
                 A collection of my notes on books and film; my analytics projects; and my stories. Latest ones below. I'd welcome comments on specific ones. Or more general thoughts in the form below the posts.
               </article>
 
@@ -66,13 +66,13 @@ sitemap:
                 <article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-                      <h4><a href=""{{ "/blog/" | absolute_url }}"">Latest Note</a></h4>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+                      <h4><a href=""{{ "/blog/" | site.url }}"">Latest Note</a></h4>
+  										<h2><a href="{{ post.url | site.url }}">{{ post.title }}</h2>
   									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<a href="{{ post.url | site.url }}" class="image fit"><img src="{{ post.image | site.url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
+  										<li><a href="{{ post.url | site.url }}" class="button">Read</a></li>
   									</ul>
   								</article>
                 {% endfor %}
@@ -82,13 +82,13 @@ sitemap:
                   <article>
                     <header>
                       <span class="date">{{ story.date | date_to_string }}</span>
-                      <h4><a href="{{ "/stories/" | absolute_url }}">Latest Story</a></h4>
-                      <h2><a href="{{ story.url | absolute_url }}">{{ story.title }}</h2>
+                      <h4><a href="{{ "/stories/" | site.url }}">Latest Story</a></h4>
+                      <h2><a href="{{ story.url | site.url }}">{{ story.title }}</h2>
                     </header>
-                    <a href="{{ story.url | absolute_url }}" class="image fit"><img src="{{ story.image | absolute_url }}" alt="" /></a>
+                    <a href="{{ story.url | site.url }}" class="image fit"><img src="{{ story.image | site.url }}" alt="" /></a>
                     <p>{{ story.excerpt }}</p>
                     <ul class="actions">
-                      <li><a href="{{ story.url | absolute_url }}" class="button">Read</a></li>
+                      <li><a href="{{ story.url | site.url }}" class="button">Read</a></li>
                     </ul>
                   </article>
                 {% endfor %}
@@ -97,13 +97,13 @@ sitemap:
                   <article>
                     <header>
                       <span class="date">{{ project.date | date_to_string }}</span>
-                      <h4><a href="{{ "/projects/" | absolute_url }}">Latest Project</a></h4>
-                      <h2><a href="{{ project.url | absolute_url }}">{{ project.title }}</h2>
+                      <h4><a href="{{ "/projects/" | site.url }}">Latest Project</a></h4>
+                      <h2><a href="{{ project.url | site.url }}">{{ project.title }}</h2>
                     </header>
-                    <a href="{{ project.url | absolute_url }}" class="image fit"><img src="{{ project.image | absolute_url }}" alt="" /></a>
+                    <a href="{{ project.url | site.url }}" class="image fit"><img src="{{ project.image | site.url }}" alt="" /></a>
                     <p>{{ project.excerpt }}</p>
                     <ul class="actions">
-                      <li><a href="{{ project.url | absolute_url }}" class="button">Read</a></li>
+                      <li><a href="{{ project.url | site.url }}" class="button">Read</a></li>
                     </ul>
                   </article>
                 {% endfor %}
