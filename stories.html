@@ -60,8 +60,7 @@ sitemap:
                     <article>
                       <header>
                         <span class="date">{{ story.date | date_to_string }}</span>
-                        <h4><a href="{{ "/stories/" | absolute_url }}">Latest Story</a></h4>
-                        <h2><a href="{{ story.url | absolute_url }}">{{ story.title }}</h2>
+                      <h2><a href="{{ story.url | absolute_url }}">{{ story.title }}</h2>
                       </header>
                       <a href="{{ story.url | absolute_url }}" class="image fit"><img src="{{ story.image | absolute_url }}" alt="" /></a>
                       <p>{{ story.excerpt }}</p>

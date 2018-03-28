@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hippoes Amidst the Palms"
+title: "Hippos Amidst the Palms"
 date: 2016-11-21
 categories: [fiction]
 comments: true
