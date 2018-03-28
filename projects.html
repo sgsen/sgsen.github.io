@@ -51,12 +51,13 @@ sitemap:
 
                 I see this learning as an extension of the econometric work I had done in graduate school and then applied in various work assignments - mostly in the form of analytical papers for the World Bank but also recently at a food and grocery start up. Some key outpouts from those efforts are included below as well.
               <p>
-              </article> 
+              </article>
 
 
             <!-- Posts -->
               <section class="posts">
-                {% for project in site.projects %}
+                {% assign items = (site.projects | sort: 'date') | reverse %}
+                {% for project in items %}
                   <article>
                     <header>
                       <span class="date">{{ project.date | date_to_string }}</span>
