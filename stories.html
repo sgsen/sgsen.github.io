@@ -8,6 +8,7 @@ sitemap:
     changefreq: yearly
 ---
 <!DOCTYPE HTML>
+
 <!--
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
@@ -54,19 +55,22 @@ sitemap:
 
             <!-- Posts -->
   							<section class="posts">
-                  {% for story in site.stories %}
-    								<article>
-    									<header>
-    										<span class="date">{{ story.date | date_to_string }}</span>
-    										<h2><a href="{{ story.url | absolute_url }}">{{ story.title }}</h2>
-    									</header>
-    									<a href="{{ story.url | absolute_url }}" class="image fit"><img src="{{ story.image | absolute_url }}" alt="" /></a>
-    									<p>{{ story.excerpt }}</p>
-    									<ul class="actions">
-    										<li><a href="{{ story.url | absolute_url }}" class="button">Read</a></li>
-    									</ul>
-    								</article>
+                  {% assign items = (site.stories | sort: 'date') | reverse %}
+                  {% for story in items %}
+                    <article>
+                      <header>
+                        <span class="date">{{ story.date | date_to_string }}</span>
+                        <h4><a href="{{ "/stories/" | absolute_url }}">Latest Story</a></h4>
+                        <h2><a href="{{ story.url | absolute_url }}">{{ story.title }}</h2>
+                      </header>
+                      <a href="{{ story.url | absolute_url }}" class="image fit"><img src="{{ story.image | absolute_url }}" alt="" /></a>
+                      <p>{{ story.excerpt }}</p>
+                      <ul class="actions">
+                        <li><a href="{{ story.url | absolute_url }}" class="button">Read</a></li>
+                      </ul>
+                    </article>
                   {% endfor %}
+
 
   							</section>
 
