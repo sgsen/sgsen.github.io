@@ -23,11 +23,12 @@ sitemap:
 	<body class="is-loading">
 
 		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+    
+    	<div id="wrapper" class="fade-in">
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | site.url }}" class="logo">{{site.title}}</a>
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -44,10 +45,10 @@ sitemap:
             <!-- Featured Post -->
               <article class="post featured">
                 <header class="major">
-                  <h2><a href="#">Projects</a></h2>
+                  <h2><a href="#">Data Science & Analytical Work</a></h2>
               </header>
               <p>
-                I have been working on building up my data science skills lately. A bulk of what's beloare the small projects I've done as I work through the Dataquest curriculum.
+                I have been working on building up my data science skills lately. A bulk of what's below are the small projects I've done as I work through the Dataquest curriculum.
 
                 I see this learning as an extension of the econometric work I had done in graduate school and then applied in various work assignments - mostly in the form of analytical papers for the World Bank but also recently at a food and grocery start up. Some key outpouts from those efforts are included below as well.
               <p>
@@ -61,12 +62,12 @@ sitemap:
                   <article>
                     <header>
                       <span class="date">{{ project.date | date_to_string }}</span>
-                      <h2><a href="{{ project.url | site.url }}">{{ project.title }}</h2>
+                      <h2><a href="{{ project.url | absolute_url }}">{{ project.title }}</h2>
                     </header>
-                    <a href="{{ project.url | site.url }}" class="image fit"><img src="{{ project.image | site.url }}" alt="" /></a>
+                    <a href="{{ project.url | absolute_url }}" class="image fit"><img src="{{ project.image | absolute_url }}" alt="" /></a>
                     <p>{{ project.excerpt }}</p>
                     <ul class="actions">
-                      <li><a href="{{ project.url | site.url }}" class="button">Read</a></li>
+                      <li><a href="{{ project.url | absolute_url }}" class="button">Read</a></li>
                     </ul>
                   </article>
                 {% endfor %}

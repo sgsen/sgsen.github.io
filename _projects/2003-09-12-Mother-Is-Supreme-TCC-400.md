@@ -3,16 +3,16 @@ layout: post
 title: "Mother is Supreme"
 date: 2003-09-03
 categories: [college]
+image: 'https://dl.dropboxusercontent.com/s/9aitnww282rym51/achebethingsfallapart.jpg?dl=0'
+excerpt: An Exploration of the Ideas of Female Inequality between Achebes's' Umuofia and Modern America
 ---
+_I like this paper so much not because I remember it to be particularly good; I think I got a B on it. I like it because it marked a turning point in college. I truly became interested to learn. And in this paper took some - small, feeble - steps to start thinking for myself. (April, 2018)_
 
-#### *An Exploration of the Ideas of Female Inequality between Achebes&#39; Umuofia and Modern America*
-
+### Position Paper #1 based on **Things Fall Apart by Chinua Achebe**
 *Soham Sen, Charlottesville, VA*
 *TCC 401-3 (Townsend)*
 
-Position Paper #1 based on **Things Fall Apart by Chinua Achebe**
-
-Chinua Achebe, in his novel Things Fall Apart, paints a perplexing picture of women in the early 1900s society of the indigenous people of Niger in Africa, the people of Umofia. Women are clearly valuable to the society, yet they derive no social rights or status that is proportional to that value. Achebe does not depict all the men of Umofia to be ignorant followers of the ideology of male machismo; some are cognizant of the actual value of the female gender. His criticism of the unjust status of women is reflected through the character Uchendu, an man wise with old age, points out that &quot;Mother is Supreme.&quot;
+Chinua Achebe, in his novel Things Fall Apart, paints a perplexing picture of women in the early 1900s society of the indigenous people of Nigeria in Africa, the people of Umofia. Women are clearly valuable to the society, yet they derive no social rights or status that is proportional to that value. Achebe does not depict all the men of Umofia to be ignorant followers of the ideology of male machismo; some are cognizant of the actual value of the female gender. His criticism of the unjust status of women is reflected through the character Uchendu, an man wise with old age, points out that &quot;Mother is Supreme.&quot;
 
 _It&#39;s true that a child belongs to its father. But when a father beats his child, it seeks sympathy in its mother&#39;s hut. A man belongs to his fatherland when things are good and life is sweet. But when there is sorrow and bitterness he finds refuge in his motherland. Your mother is there to protect you… That is why we say that mother is supreme._ (p. 134)
 
@@ -49,3 +49,5 @@ It seems that American and European farmers had been going to African villages t
 In the case of the spread of AIDS, it was found that women did not have the social authority to deny a man, usually her (often unfaithful) husband from sexual contact, nor require that he make use of contraceptives. So if the woman has AIDS to begin with, she spread it to her husband, who might spread it to some one else, and of course her child is then born with AIDS as well. The multiplier effect is tremendous, and very much a factor in Africa&#39;s, and so the world&#39;s AIDS epidemic.  I feel it is important to note that as Achebes&#39; story is about African people, I feel that examples from that region of the world are best though there are of course similar examples elsewhere. Women in America are much more prone to being raped than men.
 
 Achebe depiction of the inequality of women in a society that is ruled by tradition and fear rather than reason is similar in many ways to our society. We continue to deny women social status and worth commensurate with their actual value, and it is not befitting our age of reason. Furthermore, as the AIDS example demonstrates, there are significant consequences for men as well as women resulting from such unequal treatment. We would do well to heed Achebes&#39; reminder that &quot;Mother is Supreme.&quot;
+
+[Image Credit](http://thingsfallapartblog.weebly.com/uploads/2/7/5/0/27506757/6313251.jpg?525)

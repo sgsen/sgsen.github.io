@@ -2,7 +2,7 @@
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | relative_url }}">Home</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | relative_url }}">About</a></li>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | relative_url }}">Notes</a></li>
-  <li class="{% if page.url contains '/projects/' %} active {% endif %}"><a href="{{ "/projects/" | relative_url }}">Projects</a></li>
+  <li class="{% if page.url contains '/projects/' %} active {% endif %}"><a href="{{ "/projects/" | relative_url }}">DataSci</a></li>
   <li class="{% if page.url contains '/stories/' %} active {% endif %}"><a href="{{ "/stories/" | relative_url }}">Stories</a></li>
 </ul>
 
@@ -12,4 +12,3 @@
   <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
   <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
 </ul>
-  

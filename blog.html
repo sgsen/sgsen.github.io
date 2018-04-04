@@ -29,7 +29,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ "/" | site.url }}" class="logo">{{site.title}}</a>
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -59,12 +59,12 @@ sitemap:
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
-                      <h2><a href="{{ post.url | site.url }}">{{ post.title }}</h2>
+                      <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
   									</header>
-  									<a href="{{ post.url | site.url }}" class="image fit"><img src="{{ post.image | site.url }}" alt="" /></a>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
   									<p>{{ post.excerpt }}</p>
   									<ul class="actions">
-  										<li><a href="{{ post.url | site.url }}" class="button">Read</a></li>
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Read</a></li>
   									</ul>
   								</article>
                 {% endfor %}
