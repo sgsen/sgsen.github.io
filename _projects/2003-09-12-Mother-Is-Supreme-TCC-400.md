@@ -4,7 +4,7 @@ title: "Mother is Supreme"
 date: 2003-09-03
 categories: [college]
 image: 'https://dl.dropboxusercontent.com/s/9aitnww282rym51/achebethingsfallapart.jpg?dl=0'
-excerpt: An Exploration of the Ideas of Female Inequality between Achebes's' Umuofia and Modern America
+excerpt: "An Exploration of the Ideas of Female Inequality between Achebes's' Umuofia and Modern America"
 ---
 _I like this paper so much not because I remember it to be particularly good; I think I got a B on it. I like it because it marked a turning point in college. I truly became interested to learn. And in this paper took some - small, feeble - steps to start thinking for myself. (April, 2018)_
 
