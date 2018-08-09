@@ -4,8 +4,9 @@ title: "Why SME Lending?"
 date: 2018-08-08
 categories: [SMEs]
 image: 'https://dl.dropbox.com/s/rlxppx25a26aren/blog_smezoomout.jpg?dl=0'
-excerpt: We care about small businesses because it is the primary source of employment in most countries, and economic prosperity for an economy overall is then tied to the success of small businesses. And the main thing that propels or inhibits the success of small businesses is access to financial services. Credit for the image below to Kinara Capital.
+excerpt: 'We care about small businesses because it is the primary source of employment in most countries. And the main thing that propels or inhibits the success of small businesses is access to financial services.'
 comments: true
+imgcaption: 'Image from Kinara Capital'
 ---
 
 ## Remembering to look up

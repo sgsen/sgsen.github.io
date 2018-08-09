@@ -5,7 +5,7 @@ description:        "Soham's Notes, Stories and Projects"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-disqusurl: "sgsen.github.io"
+disqusurl: "https://sgsen.github.io"
 
 defaults:
 - scope:

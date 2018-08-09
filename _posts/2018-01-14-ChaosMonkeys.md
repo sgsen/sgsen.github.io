@@ -6,7 +6,8 @@ categories: books
 image: 'https://dl.dropboxusercontent.com/s/mzd204bgp00jtft/chaos-1000x667_wbur.jpg?dl=0'
 excerpt: 'Antonio Martinez entertains, soothes and teaches'
 ---
-I was thinking: what did this book do for me. And a few things come to mind:
+
+I was thinking: what did this book do for me? And a few things come to mind:
 
 **It entertained.** I got a relatable story of a guy moving from finance at Goldman to small tech to start up tech via the Y combinator to corporate tech at Facebook. There is much politics, drama, gossip, alcohol and even sex throughout. Aside from the plot, Martinez has a facility with the pithy turns of phrase which were delightful to read. Some examples below.
 
