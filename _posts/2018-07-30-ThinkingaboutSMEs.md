@@ -4,7 +4,8 @@ title: "Why SME Lending?"
 date: 2018-08-08
 categories: [SMEs]
 image: 'https://dl.dropbox.com/s/rlxppx25a26aren/blog_smezoomout.jpg?dl=0'
-excerpt: We care about small businesses because it is the primary source of employment in most countries, and economic prosperity for an economy overall is then tied to the success of small businesses. And the main thing that propels or inhibits the success of small businesses is access to financial services.
+excerpt: We care about small businesses because it is the primary source of employment in most countries, and economic prosperity for an economy overall is then tied to the success of small businesses. And the main thing that propels or inhibits the success of small businesses is access to financial services. Credit for the image below to Kinara Capital.
+comments: true
 ---
 
 ## Remembering to look up
@@ -52,31 +53,34 @@ On the employment question though, this [World Bank paper from 2017][wb2017] cit
 [wb2017]:https://dl.dropbox.com/s/64h1ja26o1gj8b5/SMEFinance_WorldBank_2017.pdf?dl=0
 [ilo2016]:https://dl.dropbox.com/s/t00k2au805s1nhz/ILO_IndiaLaborForce_2016.pdf?dl=0
 
-### Small businesses as a driver of growth is murkier and depends on other factors like finance...
+### Small businesses as a driver of growth is murkier and depends on other factors ...
 The same paper (World Bank 2017) suggests that the relationship with growth is less clear. In fact, it's not even directly growth but rather 'recovery from recessions in developing countries.' One study cited in the paper didn't find any relationship between the proportional size of the SME sector to growth or poverty alleviation. Another shows that there is a positive relationship, but only in developed countries but not developing ones. A third that bigger firms are actually better drivers of growth (because they are typically run by more skilled entrepreneurs, can leverage economies of scale, can afford to fund innovation and offer more stable jobs to employees).
 
-So what's the deal? It looks like access to finance might be at the heart of the issue. If there is good access to finance, SMEs prosper and can grow to be larger firms which are even better. In fact, a large number of SMEs is probably a good sign that there are inefficiencies in the system that prevent companies from getting bigger.  
+So what's the deal?  
 
-## Question 2: Why do we care about financial inclusion for small businesses?
+## Question 2: Why then do we care about financial inclusion for small businesses?
 
-### Financial Inclusion matters for individuals and firms...
+### It seems that whether SMEs can grow and contribute to economic growth depends on whether they have access to finance...
+If there is good access to finance, SMEs prosper and can grow to be larger firms which are even better. In fact, a large number of SMEs is probably a good sign that there are inefficiencies in the system that prevent companies from getting bigger.
+
+[This World Bank Working Paper from 2006][wb2006] studied 10,000 firms across 80 countries. It finds that of all the factors that are generally described as being constraints for the growth of small businesses, access to finance is the most robust amongst "inadequate security, enforcement of property rights, poor provision of infrastructure, inefficient regulation and taxation, and broader governance features such as corruption and macroeconomic stability." I should add though that this same study finds that political stability and crime also matter for firm growth along with access to finance, just that this study finds a more robust relationship for finance. Other factors affect firm growth operating through these three main factors.
+
+[wb2006]:https://dl.dropbox.com/s/ae13in77svnt0cx/FinanceforFirmGrowth_2006_WorldBank_WPS3820.pdf?dl=0
+
+
+### But why is access to financial services so important for individuals and firms?
 
 A flagship report by the IFC and World Bank on [Financial Inclusion from 2014][ifc2014] has a good synthesis of why financial inclusion matters from a theoretical perspective. One reason is that a lack of financial inclusion persists inequalities and traps people in poverty. If you don't have the money already (you're poor in other words) you're stuck because you can't invest in the education you need to become more productive (earn more) and you can't pursue entrepreneurial ideas which again could lead to higher productivity (p15). There are other problems aside from these which are basically about getting credit. Without access to basic financial services, it's hard to save up for the future (or retirement) and it's hard to protect yourself from risk from health or death without insurance.
 
 And empirical evidence seems to bear this out. Having access to savings accounts leads to higher "savings, womens empowerment, productive investment, consumption, investment in productive health, productivity and income" (p41). The evidence supporting credit is also pretty strong. Insurance is more complicated but seems to lead toward better investments and higher productivity (p42).
-Credit does indeed help households smooth consumption and pursue entrepreneurship. And lack of credit constraints economic growth pretty much more than anything else (p43).
+Credit does indeed help households smooth consumption and pursue entrepreneurship. And lack of credit constraints economic growth pretty much more than anything else (p43) as I also said the section above.
 
-A long parenthetical caution here: credit is not unambiguously positive. Micro-credit was meant to unleash the entrepreneurship and economic potential trapped at the bottom of the pyramid for lack of credit. More than a decade on from the rapid expansion of micro-credit across the world, what we see is that micro-credit has been helpful for consumption smoothing and risk management, but has little or no impact on entrepreneurship and investment. And at the macroeconomic level, it looks like micro-credit is mostly redistributive and potentially reduces financial stability. Giving credit to high risk borrowers without a proper institutional framework can lead to disaster (think the housing crisis in the US in 2008 or the micro-credit crisis in Andhra Pradesh in 2010).
+A long parenthetical caution here: credit is not unambiguously positive. Micro-credit was meant to unleash the entrepreneurship and economic potential trapped at the bottom of the pyramid for lack of credit. More than a decade on from the rapid expansion of micro-credit across the world, what we see is that micro-credit has been helpful for consumption smoothing and risk management, but has little or no impact on entrepreneurship and investment. And at the macroeconomic level, it looks like micro-credit is mostly redistributive and potentially reduces financial stability. Giving credit to high risk borrowers without a proper institutional framework can lead to disaster (think the housing crisis in the US in 2008 or the micro-credit crisis in Andhra Pradesh in 2010). In short, credit is very important but it has to be done right.
 
 [ifc2014]:https://dl.dropbox.com/s/vzai2z60q1ivf0b/GlobalFinDevReport_Inclusion_2014.pdf?dl=0
 
-### And whether SMEs can grow and contribute to economic growth depends on financial inclusion...
-
-Now, going back to small businesses. [This World Bank Working Paper from 2006][wb2006] studies 10,000 firms across 80 countries. They find that of all the factors that are generally described as being constraints for the growth of small businesses, access to finance is the most robust amongst "inadequate security, enforcement of property rights, poor provision of infrastructure, inefficient regulation and taxation, and broader governance features such as corruption and macroeconomic stability." I should add though that this same study finds that political stability and crime also matter for firm growth along with access to finance, just that this study finds a more robust relationship for finance. Other factors affect firm growth operating through these three main factors.
-
-[wb2006]:https://dl.dropbox.com/s/ae13in77svnt0cx/FinanceforFirmGrowth_2006_WorldBank_WPS3820.pdf?dl=0
-
 ## Summing up
+
 In summary: we care about small businesses because it is the primary source of employment in most countries, and economic prosperity for an economy overall is then tied to the success of small businesses. And the main thing that propels or inhibits the success of small businesses is access to financial services.
 
 Ok so that's a long answer to questions 1 and 2. Now, if credit makes sense to focus on, how much credit do SMEs need? In other words, what is the demand for credit? And what is the supply? And if there is a gap, why is that? I'll turn to these questions next.
