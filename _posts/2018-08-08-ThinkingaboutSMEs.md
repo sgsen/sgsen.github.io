@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Why SME Lending?"
+title: "Why SME Lending? A Reminder"
 date: 2018-08-08
 categories: [SMEs]
 image: 'https://dl.dropbox.com/s/rlxppx25a26aren/blog_smezoomout.jpg?dl=0'
-excerpt: 'We care about small businesses because it is the primary source of employment in most countries. And the main thing that propels or inhibits the success of small businesses is access to financial services.'
+excerpt: 'We care about small businesses because it is the primary source of employment in most countries. And the main thing that propels or inhibits the success of small businesses is access to financial services. Image below courtesy Kinara Capital'
 comments: true
-imgcaption: 'Image from Kinara Capital'
 ---
 
 ## Remembering to look up
-I went to a new part of town over the last couple of days for a conference. And because it was new, I noticed myself monitoring Google Maps pretty regularly to make sure I was going in the right direction. It made me think that I don't look at the big picture enough in other parts of my life. For example, I have now been moving around the SME spending space for a while, and I thought this was a good time to look up and take note of the bigger picture.
+I went to a new part of town over the last couple of days for a conference. And because it was new, I noticed myself monitoring Google Maps pretty regularly to make sure I was going in the right direction. It made me think that I don't look at the big picture enough in other parts of my life. For example, I have now been moving around the SME spending space for a while, and I thought this was a good time to look up and take note of the bigger picture. More philosophically, the bigger picture then serves as reminder of why we do the work that we do. 
 
 ## Five guiding questions
 Five big questions come to mind that might serve as a guide.
