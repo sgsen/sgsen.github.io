@@ -4,7 +4,7 @@ title: "Nasi"
 date: 2016-10-03
 categories: [fiction]
 comments: true
-image: "https://c5.staticflickr.com/6/5562/14417763332_55b76c14a1_n.jpg"
+image: "/images/nasi.jpg"
 excerpt: "It was dawning on him that he lacked much besides just cash. A basic understanding of how his night was going for one thing."
 ---
 
@@ -167,4 +167,6 @@ He sullenly looked at the ground. How could he have missed the signs? Goddam Mat
 “Nasi.”
 
 
-*Image Credit: Laura Faraci -- African from Flickr*
+[Image Credit: Laura Faraci][1]
+
+[1]:https://www.behance.net/laurafaraci_graphics
